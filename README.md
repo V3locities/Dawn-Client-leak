@@ -6,4 +6,4 @@ realized that it was skidded and is nowhere near the requirements of intent,
 The client can also be deobfuscated in 10m but i was too lazy and even if i had the motiviation
 i still have no pc..
 ---------------------------------------------------------------------------------
-LMAAAOOOOO DONT RUN PLEASE IT DAWN TURNED OUT TO BE A LOGGER AS WELL
+LMAAAOOOOO DONT RUN PLEASE, IT DAWN TURNED OUT TO BE A LOGGER AS WELL
